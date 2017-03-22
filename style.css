@@ -1,0 +1,126 @@
+
+
+
+body, div, header, nav, input, button, a, p, h1, h2, h3, h4, h5, h6, i, img, footer, form, ul, li {
+    margin: 0;padding: 0;border:0; font-family:roboto; max-width: 100%;
+}
+
+.container {
+	width: 90%;
+	margin-left: 5%;
+}
+
+
+.Gymnasieprogram {
+	width: 50%;
+	margin-left: 25%;
+}
+
+header img {
+	margin: auto;
+	width: 100%;
+	display: block;
+}
+
+.logga { 
+	position: absolute;
+	margin: -10% 10%;
+	width: 6%;
+ }
+
+
+.matsedel {
+	margin-left: 20%;
+	margin-top: 7%;
+	margin-bottom: 2%;
+}
+
+
+.ProgramInfoImg {
+	margin-left: 38%;
+	margin-top: 5%;
+}
+
+
+header ul {
+	list-style: none;
+	width: 100%;
+	text-align: center;
+	background-color: #74A316;
+	padding: 20px 0;
+}
+
+
+ul {
+	list-style: none;
+}
+
+
+ul a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	padding: 20px 50px;
+}
+
+
+
+ul a:hover {
+	background-color: #5C8211;
+}
+
+
+h1 {
+	font-family: "Roboto", sans-serif;
+	color: #000;
+	text-align: center;
+}
+
+
+h2 {
+	text-align: center;
+	margin-top: 5%;
+}
+
+
+p {
+	text-align: left;
+	list-style: none;
+}
+
+
+.rubrik {
+	margin-top: 5%;
+	margin-bottom: 20px;
+}
+
+
+iframe {
+	border-width: 5px;
+	border-radius: 2%;
+	width: 75%;
+	height: 850px;
+	margin-left: 12%;
+	margin-top: 2%;
+}
+
+footer {
+	margin-top: 5%;
+	background-color: #74A316; 
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+#FooterP {
+	text-align: center;
+}
+
+
+#MerInfo {
+	text-align: center;
+}
+
+.activeTab {
+	color: #000
+}
